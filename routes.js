@@ -10,3 +10,4 @@ router.put("/posts", PostController.update);
 router.delete("/posts/:id", PostController.delete);
 
 export default router;
+
